@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1>🏷Bot Discord</h1>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/github-209c5.appspot.com/o/png_20220825_120441_%D9%A0%D9%A0%D9%A0%D9%A0.png?alt=media&token=633990db-858b-4c73-bb73-2a1a928aba27">
+
 
 
 <h1>👤about Project </h1>
